@@ -1,0 +1,11 @@
+
+dog
+cat
+car
+person
+tree
+laptop
+phone
+bottle
+chair
+table
